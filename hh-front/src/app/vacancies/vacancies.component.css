@@ -1,0 +1,11 @@
+.vacancy {
+  margin: 0 auto;
+  margin-top: 30px;
+  border: 1px double black;
+  width: 360px;
+  padding: 10px;
+}
+
+.title {
+  margin: 0 auto;
+}

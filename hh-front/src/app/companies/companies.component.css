@@ -1,0 +1,12 @@
+.company {
+  margin: 0 auto;
+  margin-top: 10px;
+  border: 1px double crimson;
+  width: 360px;
+  padding: 10px;
+  background: cornflowerblue;
+}
+
+.company:hover {
+  background-color: bisque;
+}

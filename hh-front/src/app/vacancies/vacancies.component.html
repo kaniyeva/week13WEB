@@ -1,0 +1,11 @@
+<div>
+  <div class="title">
+    <h1>Vacancies list</h1>
+    <div class="vacancy" *ngFor="let vac of vacancies">
+      <a>Name: {{vac.name }}</a><br>Description: {{vac.description}}
+      <br>salary: {{vac.salary}}
+      <br>
+    </div>
+    <button routerLink="">Back</button>
+  </div>
+</div>
